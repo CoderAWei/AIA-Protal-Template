@@ -1,5 +1,5 @@
 import { Link, Outlet } from 'umi';
-import style from './index.module.less';
+import style from './index.less';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer'
 
